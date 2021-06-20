@@ -1,4 +1,4 @@
-# Amazon-Customer-Review-Analysis
+# Amazon-Customer-Sentiment-Analysis
 The analysis of customer reviews of Nike and Skechers extracted from AWS public datasets. 
 Technology used:  
 1. Gephi - Gephi is the leading visualization and exploration software for all kinds of graphs and networks. Gephi is open-source and free. https://gephi.org/ 
